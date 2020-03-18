@@ -1,9 +1,6 @@
-# Assignment Description
+# It's Fair Game Blackjack Game JC '23
 
-written by 
 
-edit with appropriate link:
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Its-Fair-Game-Day-JC)](https://repl.it/github/athenian-ct-projects/Its-Fair-Game-Day-JC)
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* This is a Blackjack game. It wasn't written specifically for It's Fair Game Day, but that seems to be the closest fit.
